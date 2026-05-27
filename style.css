@@ -1,0 +1,13 @@
+#container
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 0, 0);
+}
+
+
+
+img{
+    width: 100%;
+    height: 250px;
+    border: 10px;
+}
